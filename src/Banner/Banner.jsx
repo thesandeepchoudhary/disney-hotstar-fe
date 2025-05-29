@@ -10,7 +10,7 @@ const fetchDisneyOriginals = `/discover/tv?api_key=${API_KEY}&with_networks=3919
 function Banner({ setDesmovies }) {
     const [movie, setMovie] = useState([]);
 
-    useEffect(() => {
+    useEffect(() => {{}
         async function fetchData() {
             const request = await axios.get(fetchDisneyOriginals);
 
