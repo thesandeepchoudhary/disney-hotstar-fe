@@ -102,7 +102,7 @@
 }
 
 #row_in_banner img {
-  width: 5rem;
+  width: 5rem;;
 }
 
 #row_in_banner .row__posterLarge {
@@ -110,7 +110,7 @@
 }
 
 #row_in_banner h2 {
-  display: none !important;
+  display: none !important;;
 }
 
 #row_in_banner .row__last_button {
