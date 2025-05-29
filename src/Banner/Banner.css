@@ -81,7 +81,7 @@
 }
 
 .icon:hover {
-  fill: white;
+  fill: white;;
   background-color: #111;
 }
 
@@ -92,6 +92,7 @@
 .banner__row {
   position: fixed;
   top: 10px;
+  left: 0;
 }
 
 #row_in_banner {
