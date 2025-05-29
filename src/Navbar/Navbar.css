@@ -9,11 +9,14 @@
   transition: width 0.2s ease;
   /* overflow: hidden; */
   display: flex;
+  flex-direction: column;
+  background-color: #0F1014;
   justify-content: center;
 }
 
 .navlogo {
   position: absolute;
+  z-index: 1000000;
   top: 20px;
   left: 10px;
   /* width: 20rem; */
